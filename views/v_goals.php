@@ -1,0 +1,1 @@
+<div class="alert alert-block alert-info"><i class="fa fa-info-circle"></i> Conversion tracking is not available in Shorty Lite. <a href="http://www.shortywp.com/?utm_source=wordpress&utm_medium=referral&utm_campaign=shorty_lite" target="_blank" class="alert-link">Upgrade now</a> to get additional features and full support.</div>
